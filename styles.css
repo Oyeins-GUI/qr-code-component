@@ -26,7 +26,7 @@ main {
 	background: var(--white);
 	padding: 1rem;
 	max-width: 330px;
-	min-height: 500px;
+	min-height: 480px;
 	border-radius: var(--border-radius);
 }
 
@@ -37,7 +37,7 @@ h1, p {
 }
 
 .qr-code {
-	margin: 0 auto 1.5rem auto;
+	margin: 0 auto 1.15rem auto;
 }
 
 img {
@@ -49,12 +49,13 @@ img {
 .header {
 	color: var(--dark-blue);
 	font-size: 22px;
-	margin-bottom: 0.925rem;
+	margin-bottom: 0.625rem;
 }
 
 .paragraph {
 	color: var(--grayish-blue);
 	font-size: 15px;
+	margin-bottom: 1rem;
 }
 
 .attribution {
